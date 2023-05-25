@@ -1,5 +1,3 @@
-import Avatar from '../Shared/Navbar/Avatar'
-
 const RoomInfo = () => {
   return (
     <div className='col-span-4 flex flex-col gap-8'>
